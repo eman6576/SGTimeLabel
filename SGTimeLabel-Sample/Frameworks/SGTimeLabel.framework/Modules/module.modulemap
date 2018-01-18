@@ -1,0 +1,6 @@
+framework module SGTimeLabel {
+  umbrella header "SGTimeLabel.h"
+
+  export *
+  module * { export * }
+}
